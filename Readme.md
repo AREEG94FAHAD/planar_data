@@ -213,7 +213,7 @@ X, Y = X, Y = load_planar_dataset()
 Logistic regression didn't work well on the flower dataset. Next, you're going to train a Neural Network with a single hidden layer and see how that handles the same problem.
 
 **The model**:
-<img src="images/classification_kiank.png" style="width:600px;height:300px;">
+<img src="image/classification_kiank.png" style="width:600px;height:300px;">
 
 **Mathematically**:
 
@@ -595,7 +595,7 @@ Implement the function `backward_propagation()`.
 **Instructions**:
 Backpropagation is usually the hardest (most mathematical) part in deep learning. To help you, here again is the slide from the lecture on backpropagation. You'll want to use the six equations on the right of this slide, since you are building a vectorized implementation.  
 
-<img src="images/grad_summary.png" style="width:600px;height:300px;">
+<img src="image/grad_summary.png" style="width:600px;height:300px;">
 <caption><center><font color='purple'><b>Figure 1</b>: Backpropagation. Use the six equations on the right.</font></center></caption>
 
 <!--
